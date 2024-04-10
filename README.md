@@ -1,1 +1,2 @@
 # business-analytics
+2024前期火曜１限のビジネスアナリティクスの授業のpythonファイルの保存場所
